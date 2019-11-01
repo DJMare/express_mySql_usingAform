@@ -59,15 +59,15 @@ MYSQL
 
 VS CODE
 
-(13) Navigate to the routes/index.js file and update. Need to require the mySQL, add get() route and sql method: ![open index js file (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001142-097f4700-fc20-11e9-84fe-7ed4d2bd4905.JPG)
+(14) Navigate to the routes/index.js file and update. Need to require the mySQL, add get() route and sql method: ![open index js file (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001142-097f4700-fc20-11e9-84fe-7ed4d2bd4905.JPG)
 
 ![update index js file get() route and sql method (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001206-60851c00-fc20-11e9-829c-4f9ad4871af1.JPG)
 
 
-(14) Add the connection information to connect to mySQL in routes/index.js file: 
+(15) Add the connection information to connect to mySQL in routes/index.js file: 
 
-(15) Add info for idQuery and the req.params.id to the index.js file: 
+(16) Add info for idQuery and the req.params.id to the index.js file: 
 
-(16) Navigate to views/index.hbs file: 
+(17) Navigate to views/index.hbs file: 
 
-(17) Update views/index.hbs file: 
+(18) Update views/index.hbs file: 
