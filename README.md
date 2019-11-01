@@ -52,6 +52,10 @@ COMMAND PROMPT
 
     code . 
 
+MYSQL
+
+(13) run a select query in mySQL to view all the actors:  ![run a select query in mySQL to view all actors (mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001251-8f9b8d80-fc20-11e9-83d7-92380394e4a1.JPG)
+
 
 VS CODE
 
