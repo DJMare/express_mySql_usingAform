@@ -63,7 +63,8 @@ VS CODE
 
 ![update index js file get() route and sql method (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001206-60851c00-fc20-11e9-829c-4f9ad4871af1.JPG)
 
-(15) Add info for idQuery and the req.params.id to the index.js file: 
+(15) Add get() method to route /actor to the index.js file: ![create post() method with a route actor in index js file (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001388-1fd9d280-fc21-11e9-9910-3daf350d52fa.JPG)
+
 
 (16) Navigate to views/index.hbs file: 
 
