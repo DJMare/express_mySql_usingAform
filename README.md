@@ -69,5 +69,5 @@ VS CODE
  
 (17) Update post() method to log form and add newActor: ![update post() method to log form and add newActor in index js file (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68065162-3f84ff80-fce2-11e9-9468-ef414960bb3c.JPG)
 
-(18) ![create new variable actorList to run SELECT statement in index js file for actor (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68065174-8c68d600-fce2-11e9-8906-9d56130e7014.JPG)
+(18) Create a new variable of actorList to run a SELECT statement in the routes.index.js file to check if the actor is already in the list: ![create new variable actorList to run SELECT statement in index js file for actor (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68065174-8c68d600-fce2-11e9-8906-9d56130e7014.JPG)
 
