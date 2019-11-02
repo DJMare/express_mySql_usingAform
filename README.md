@@ -69,5 +69,9 @@ VS CODE
 
 (18) Create a new variable of actorList to run a SELECT statement in the routes.index.js file to check if the actor is already in the list: ![create new variable actorList to run SELECT statement in index js file for actor (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68065174-8c68d600-fce2-11e9-8906-9d56130e7014.JPG)
 
+WEB BROWSER
+
 (19) Navigate to localhost:3000/actor to view form and list: ![navigate to localhost3000 to see form and list of actors (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68065631-62ff7880-fce9-11e9-961a-65a1489fc1d2.JPG)
+
+(20) Fill out form to add new actor: ![navigate to localhost3000 and fill out form to add new actor (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68065657-a5c15080-fce9-11e9-92c4-6cd1e9b6a695.JPG)
 
