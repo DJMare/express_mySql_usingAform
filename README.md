@@ -59,10 +59,9 @@ MYSQL
 
 VS CODE
 
-(14) Navigate to the routes/index.js file and update. Need to require the mySQL, add the connection information to connect to mySQL, add get() route and sql method: ![open index js file (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001142-097f4700-fc20-11e9-84fe-7ed4d2bd4905.JPG)
+(14) Navigate to the routes/index.js file and update. Need to require the mySQL, add the connection information to connect to mySQL: ![open index js file (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001142-097f4700-fc20-11e9-84fe-7ed4d2bd4905.JPG)
 
-
-(15) Add get() method to route /actor to the index.js file: ![create post() method with a route actor in index js file (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001388-1fd9d280-fc21-11e9-9910-3daf350d52fa.JPG)
+(15) Add get() method to route /actor to the index.js file: ![create new get() method in index js file for actor (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68065553-36972c80-fce8-11e9-8caf-c647da393fdb.JPG)
 
 (16) Create views/actor.hbs file with form and loop: ![create actor hbs file with form and loop(express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001494-80690f80-fc21-11e9-8b8d-6e387d60edc1.JPG)
  
