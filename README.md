@@ -61,7 +61,6 @@ VS CODE
 
 (14) Navigate to the routes/index.js file and update. Need to require the mySQL, add the connection information to connect to mySQL, add get() route and sql method: ![open index js file (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001142-097f4700-fc20-11e9-84fe-7ed4d2bd4905.JPG)
 
-![update index js file get() route and sql method (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001206-60851c00-fc20-11e9-829c-4f9ad4871af1.JPG)
 
 (15) Add get() method to route /actor to the index.js file: ![create post() method with a route actor in index js file (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001388-1fd9d280-fc21-11e9-9910-3daf350d52fa.JPG)
 
