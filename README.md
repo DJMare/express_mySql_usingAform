@@ -75,3 +75,7 @@ WEB BROWSER
 
 (20) Fill out form to add new actor: ![navigate to localhost3000 and fill out form to add new actor (express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68065657-a5c15080-fce9-11e9-92c4-6cd1e9b6a695.JPG)
 
+COMMAND PROMPT
+
+(21) View new actor added in the terminal: ![new actor added to database](https://user-images.githubusercontent.com/35668707/68065668-d608ef00-fce9-11e9-9935-3a3cd50c9384.JPG)
+
