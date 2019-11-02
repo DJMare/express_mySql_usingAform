@@ -67,3 +67,4 @@ VS CODE
 
 (16) Create views/actor.hbs file with form and loop: ![create actor hbs file with form and loop(express_mySQL_usingAform)](https://user-images.githubusercontent.com/35668707/68001494-80690f80-fc21-11e9-8b8d-6e387d60edc1.JPG)
  
+(17) Update post() method to log form and add newActor: 
