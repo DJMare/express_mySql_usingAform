@@ -79,3 +79,16 @@ COMMAND PROMPT
 
 (21) View new actor added in the terminal: ![new actor added to database](https://user-images.githubusercontent.com/35668707/68065668-d608ef00-fce9-11e9-9935-3a3cd50c9384.JPG)
 
+NODEMON NOTE
+
+Sometimes nodemon crashes in Windows 10 and there is a simple fix:
+
+(1) Open Task manager (press Ctrl+Alt+Delete)
+
+(2) Select the 'Processes tab'
+
+(3) Search for 'Node.js: Server-side JavaScript'
+
+(4) Select it and click on 'End task' button
+
+Now you can run npm start.
