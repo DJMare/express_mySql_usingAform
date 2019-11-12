@@ -23,10 +23,11 @@ COMMAND PROMPT
 
 (5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_mySQL_usingAform: 
 
-    express --view=hbs express_mySQL_QueriesInRoutes
-
+    express --view=hbs express_mySQL_usingAform
+    
 (6) Once the process is complete, navigate into the express_mySQL_usingAform directory: 
-   cd express_mySQL_usingAform 
+
+    cd express_mySQL_usingAform 
 
 (7) Now in the express_mySQL_usingAform directory, run the following: 
 
