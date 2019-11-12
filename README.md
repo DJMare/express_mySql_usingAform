@@ -21,7 +21,7 @@ COMMAND PROMPT
 
     npm install express-generator -g
 
-(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_mySQL: 
+(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_mySQL_usingAform: 
 
     express --view=hbs express_mySQL_QueriesInRoutes
 
