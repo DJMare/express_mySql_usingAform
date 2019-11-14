@@ -1,5 +1,5 @@
 # express_mySql_usingAform
-Using a form to insert a new Actor into the mySql database in an express app.
+Using a form to insert a new Actor into the mySQL database in an express app.
 
 Install mySQL: https://dev.mysql.com/downloads/installer/ 
 
@@ -9,7 +9,7 @@ COMMAND PROMPT
 
     cd Desktop
 
-(2) Create a new folder on desktop: 
+(2) Create a new folder on Desktop: 
 
     mkdir Express
 
