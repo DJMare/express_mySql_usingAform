@@ -1,4 +1,4 @@
-# express_mySql_usingAform
+# Express_mySql_usingAform
 Using a form to insert a new Actor into the mySQL database in an express app.
 
 Install mySQL: https://dev.mysql.com/downloads/installer/ 
